@@ -1,10 +1,7 @@
-- 👋 Hi, I’m @Anishajean
-- 👀 I’m interested in Mathematics involved behind Data Science, Data Analytics.
-- 🌱 I'm a fresher looking to work in the field of data science.
-- 👀 I'm a researcher.
-- 🌱 I’m currently learning Data science with focus on sentiment analysis.
-- 💞️ I’m looking to collaborate on researchers, data scientists, graph theorists who can mentor and work with me on signed networks and sentiment analysis.
-- 📫 How to reach me through my github profile or Linked in- Anisha Mathias
+👋 Hi, I’m @Anishajean
+👀 I'm Anisha Jean, a passionate mathematician diving deep into the fascinating world of statistics. 📊 I have a keen interest in coding, blending mathematical theories with practical applications.
+🌱 I'm always up for a challenge!
+🔍 Currently, I'm a postdoctoral researcher, actively pursuing all three of my interests: mathematics, statistics, and coding.
 
 <!---
 Anishajean/Anishajean is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
