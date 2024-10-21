@@ -1,6 +1,9 @@
 👋 Hi, I’m @Anishajean
+
 👀 I'm Anisha Jean, a passionate mathematician diving deep into the fascinating world of statistics. 📊 I have a keen interest in coding, blending mathematical theories with practical applications.
+
 🌱 I'm always up for a challenge!
+
 🔍 Currently, I'm a postdoctoral researcher, actively pursuing all three of my interests: mathematics, statistics, and coding.
 
 <!---
